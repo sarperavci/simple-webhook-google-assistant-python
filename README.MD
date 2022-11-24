@@ -1,4 +1,4 @@
-## Simple webhook for google assistant on Python with Flask.
+## Simple webhook for Google Assistant on Python with Flask.
 
 Required Libraries: flask, requests
 
